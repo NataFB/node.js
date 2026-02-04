@@ -1,5 +1,5 @@
-# notion.js
-**Resumos e projetos do curso de notion.js**
+# node.js
+**Resumos e projetos do curso de node.js**
 
 1.*Tipos, variaveis e funções*<br>
 2.*Arrays, for entre outros*<br>
